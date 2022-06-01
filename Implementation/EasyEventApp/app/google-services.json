@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990479706293",
+    "project_id": "easyevent-42ab8",
+    "storage_bucket": "easyevent-42ab8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990479706293:android:1101160b2f9d366ea5f6fc",
+        "android_client_info": {
+          "package_name": "com.example.easyeventapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990479706293-27o780503dm916jse3a40lnvrssg7p9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU3jaxgzhH8avdHWrqMjDsRn3q4dqd45I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990479706293-27o780503dm916jse3a40lnvrssg7p9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
